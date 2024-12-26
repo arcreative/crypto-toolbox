@@ -1,0 +1,8 @@
+/.bundle
+/.byebug_history
+/.env
+/.idea
+/input/*
+/output-quicken/*
+/output-quotes/*
+/NOTES.txt
